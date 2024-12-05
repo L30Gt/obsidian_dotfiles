@@ -1,0 +1,25 @@
+{
+  "cssTheme": "Vanilla AMOLED",
+  "enabledCssSnippets": [
+    "invert_image_color",
+    "adaptive_images",
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "image_zoom",
+    "image_zoom2",
+    "math_inline",
+    "tables",
+    "UI_Tweaks",
+    "Colored_Headers",
+    "Notebook Backgrounds",
+    "align-images"
+  ],
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "theme": "obsidian",
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "baseFontSizeAction": true,
+  "accentColor": "#0510a8",
+  "baseFontSize": 18
+}

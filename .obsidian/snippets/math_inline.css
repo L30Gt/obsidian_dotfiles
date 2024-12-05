@@ -1,0 +1,12 @@
+/* Estilo para organizar grupos de equações lado a lado */
+.math-inline {
+    display: inline-block;
+    margin-right: 20px; /* Espaçamento entre os grupos */
+    vertical-align: top; /* Alinha as expressões ao topo */
+  }
+  
+  /* Opcional: aumentar o espaço entre os grupos */
+  .math-inline + .math-inline {
+    margin-left: 30px;
+  }
+  

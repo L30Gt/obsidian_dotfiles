@@ -1,0 +1,29 @@
+/* Estilo da linha de título da tabela */
+.markdown-preview-view table th {
+    background-color: #333333; /* Cinza escuro */
+    color: #f0f0f0; /* Cor do texto - pode ajustar conforme necessário */
+    border: 1px solid #555555; /* Cor da borda da célula */
+}
+
+/* Estilo das linhas de dados da tabela */
+.markdown-preview-view table td {
+    background-color: #121212; /* Cor do fundo das células */
+    color: #e0e0e0; /* Cor do texto nas células */
+}
+
+/* Estilo das linhas alternadas */
+.markdown-preview-view table tr:nth-child(even) td {
+    background-color: #1a1a1a; /* Cor do fundo para linhas pares */
+}
+
+/* Ajuste da borda para a tabela */
+.markdown-preview-view table {
+    border-collapse: collapse; /* Para bordas limpas */
+    width: 100%; /* Se quiser que a tabela ocupe toda a largura */
+}
+
+.markdown-preview-view table th, .markdown-preview-view table td {
+    padding: 8px;
+    text-align: left; /* Alinhar texto à esquerda */
+    border: 1px solid #444444; /* Cor da borda geral das células */
+}
